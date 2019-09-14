@@ -14,10 +14,13 @@ What things you need to install the software and how to install them
 
 In order to effectively contribute to this repository several requirements must be met:
 
-#1. You have to have Java JDK version 8 and the latest Java JRE version installed on your computer \n
-#2. Minecraft: Java Edition \n
-#3. Text Editor \n
-#4. Latest version of Spigot from getbukkit.org \n
+#1. You have to have Java JDK version 8 and the latest Java JRE version installed on your computer.
+
+#2. Minecraft: Java Edition
+
+#3. Text Editor
+
+#4. Latest version of Spigot from getbukkit.org 
 
 Installing
 
